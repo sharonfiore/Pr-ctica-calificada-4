@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LabFoodTruck</string>
+    <string name="boton">ENVIAR</string>
+    <string name="send_to">Enviar con:</string>
+
+    <string name="categoria1">Burgers</string>
+    <string name="burger1">Big Mac .... S/.14.00</string>
+    <string name="burger2">Cuarto de Libra  .... S/.14.50 </string>
+    <string name="burger3">Doble Extra de Carne  .... S/.15.00</string>
+
+    <string name="categoria2">Pollo</string>
+    <string name="pollo1">Pollo Crujiente 2pz. .... S/.12.00</string>
+    <string name="pollo2">McPollo .... S/.14.00</string>
+    <string name="pollo3">McNuggets .... S/.14.00</string>
+
+    <string name="cliente">Ingrese su nombre</string>
+    <string name="pedido">REALIZAR PEDIDO</string>
+
+</resources>
